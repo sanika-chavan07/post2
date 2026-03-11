@@ -1,0 +1,21 @@
+
+.bgColor{
+  background-color:deeppink;
+}
+
+.card-header h3{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.spinner{
+            position: fixed;
+            width: 100%;
+            height: 100vh;
+            background: rgba(255,255,255,.7);
+            left: 0;
+            top: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
